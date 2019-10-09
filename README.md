@@ -1,0 +1,2 @@
+# lostinthecapital
+Your friends in the Computer Science department have been complaining to you that DC is confusing to get around. Due to the high cost of their mobile plan's data rates, they can’t use map programs like Apple Maps or Google Maps. They've asked you to build a program that tells users where in DC they are compared to some landmarks that they know. Your task is to build a program which tells user's their relative location to some set places. You should:
